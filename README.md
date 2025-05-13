@@ -24,4 +24,4 @@ Este proyecto fue desarrollado como parte del Sprint 5 de la formación en desar
 
 ## 👤 Autor
 
-Roger Velázquez Muciño
+**Roger Velázquez Muciño** - Desarrollador Web en formación (TripleTen)
